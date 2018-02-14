@@ -4,6 +4,7 @@
 ## Run in your phone
 1. Clone the Repo: `git clone git@github.com:pfieffer/SendSMS.git` or `git clone https://github.com/pfieffer/SendSMS.git`
 2. Open Android Studio and open the project. On a side note Android Studio 3.0.1 0r + with gradle 4.1 + is recommended.
+3. Open `Config.java` and use your Nexmo API KEY and SHARED SECRET KEY there.
 
 
 ## Screenshots
