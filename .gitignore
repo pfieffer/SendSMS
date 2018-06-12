@@ -50,3 +50,6 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+
+# my nexmo app credentials in this file; thus ignore this file
+app/src/main/java/np/com/ravipun/sendsms/Config.java
